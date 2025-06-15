@@ -1,0 +1,12 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Log files
+annotation_log.txt
+
+# macOS hidden files
+.DS_Store
